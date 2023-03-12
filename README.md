@@ -1,6 +1,6 @@
 -  Hi, I’m @K-avi
 -  I'm an undergrad college student in Computer Science at Sorbonne Université in France
 -  I really like coding in C 
--  I think theoretical computer science is super interresting but I don't know much about it yet
+-  I'm interrested by theoretical computer science and how you design/create programming languages but I don't know much about either of these yet
 -  I'm planning on learning/ getting better at functionnal languages (I already know some OCaml but I'd like to learn Haskell n Clsip)
 -  If u wanna reach me email me at:  i.m-r.ecole@orange.fr
