@@ -1,4 +1,5 @@
 -  Hi, I’m @K-avi
+-  I'm currently an intern at the LIP6 lab 
 -  I'm an undergrad college student in Computer Science at Sorbonne Université in France
 -  I really like coding in C 
 -  I'm interrested by theoretical computer science and how you design/create programming languages but I don't know much about either of these topics yet
