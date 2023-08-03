@@ -6,3 +6,5 @@
 -  I'm planning on learning/ getting better at functionnal languages (I already know some OCaml but I'd like to learn Haskell and/or Clsip)
 -  I'd also like to learn Rust at some point
 -  If u wanna reach me email me at:  i.m-r.ecole@orange.fr
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=k-avi)](https://github.com/anuraghazra/github-readme-stats)
